@@ -65,7 +65,7 @@
         <li><a href="#" class="MenuBarItemSubmenu">Jenis Tempat Makanan</a>
           <ul>
             <li><a href="#">Jenis Tempat Makanan 1</a></li>
-            <li><a href="#">Jenis Tempat Makanan 2</a></li>
+            <li><a href="#">Jenis Tempat Makanan 2</a></li>tes
           </ul>
         </li>
         <li><a href="#" class="MenuBarItemSubmenu">Rating</a>
